@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main (){
-    printf("Hello world!");
+    printf("Participantes do grupo: Lucas Parkin Devito");
     return 0;
 };
